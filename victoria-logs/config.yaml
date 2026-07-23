@@ -1,5 +1,5 @@
 name: VictoriaLogs
-version: "1.48.0"
+version: "1.52.0"
 slug: victoria_logs
 description: The simple, resource-efficient and fast logs database that scales
 webui: "http://[HOST]:[PORT:9428]/"
